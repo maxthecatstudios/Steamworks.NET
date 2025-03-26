@@ -17,7 +17,7 @@ public class RedistInstall {
 			return;
 		}
 		WriteSteamAppIdTxtFile();
-		AddDefineSymbols();
+		//AddDefineSymbols();
 		CheckForOldDlls();
 	}
 
